@@ -31,4 +31,8 @@ Base URL: `http://localhost:8080`
 - Buscar por ID: `GET /produtos/{id}` (404 se não existir)
 - Criar: `POST /produtos`
 
+## Prints 
+<img width="795" height="807" alt="image" src="https://github.com/user-attachments/assets/0b657d51-d4bd-4271-a3aa-ddd2a8e53dca" />
+
+<img width="733" height="341" alt="image" src="https://github.com/user-attachments/assets/c7bf5521-4442-4d35-91ed-02737f8e3b58" />
 
